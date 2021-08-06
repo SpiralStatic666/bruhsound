@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(90deg, teal, cyan);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#heading{
+    color: hsl(54, 80%, 70%);
+    cursor: crosshair;
+}
